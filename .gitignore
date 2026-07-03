@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+
+# Build products
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+
+# PlatformIO
+.pio/
+
+# Python
+__pycache__/
+
+# Logs
+*.log
+
